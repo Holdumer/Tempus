@@ -1,5 +1,5 @@
 # Tempus
-Minimalist screen time management for Windows.
+Minimalistic screen time management for Windows.
 
 
 #Python Process Monitor & Screen Time Blocker
